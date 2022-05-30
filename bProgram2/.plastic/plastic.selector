@@ -1,0 +1,4 @@
+repository "bProgram2@YeniBilgiUygulamasi@cloud"
+  path "/"
+    br "/main"
+    co "/main"
